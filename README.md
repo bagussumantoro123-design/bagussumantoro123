@@ -1,2 +1,2 @@
 # bagussumantoro123
-pertemuan 3
+Kelas 24S06
