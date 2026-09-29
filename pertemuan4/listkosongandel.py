@@ -1,0 +1,4 @@
+list_1 = [10, 70, 20]
+del list_1[:]
+print(list_1)
+# output -> []
