@@ -1,1 +1,0 @@
-from calculate import note, calc_hypotenuse, sqrt
